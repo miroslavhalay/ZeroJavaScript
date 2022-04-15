@@ -13,4 +13,4 @@ let y = +prompt("Введіте число y: ");
 let z= x + y;
 
 //Виводимо на екран
-console.log(x + "+"  + y  +"=" +z);
+console.log(x + " + "  + y  +" = " +z);
